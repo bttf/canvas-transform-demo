@@ -2,7 +2,11 @@
 
 A small interactive demo of the HTML5 canvas ```transform``` method.
 
-See the [Canvas Handbook](http://bucephalus.org/text/CanvasHandbook/CanvasHandbook.html#transform-a-b-c-d-e-f) for reference.
+### Steps
+1. 'npm install'
+2. 'npm start'
+
+See [Canvas Handbook](http://bucephalus.org/text/CanvasHandbook/CanvasHandbook.html#transform-a-b-c-d-e-f) for reference.
 
 ### License
 Copyright (c) 2014, bttf
